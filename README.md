@@ -36,4 +36,9 @@
 
 ## 발표 자료
 
-프로젝트 진행 과정에서 작성한 발표 자료를 `slides/` 폴더에 첨부했습니다.
+프로젝트 진행 과정에서 작성한 주차별 발표 자료를 본 저장소에 첨부했습니다.
+
+- `핀토스투어_발표자료` : PintOS 구조 분석 (타이머, 인터럽트, 프로세스, 스케줄링, 메모리)
+- `week3-proportional-schedulers` : Stride / Lottery 스케줄러 구현 및 Fairness 정량 분석
+- `Userprogram` : 프로세스 / 파일시스템 시스템 콜 구현
+- `Rtems_filesystems` : RTEMS 파일시스템 아키텍처 분석 및 I/O 성능 벤치마크
